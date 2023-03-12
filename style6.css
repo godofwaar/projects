@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    max-width: 75rem;
+    margin: auto;
+  }
+  .click
+  {
+    margin: auto;
+    width: 10rem;
+    
+    background-color: blue;
+    color: white;
+  }
+  .text {
+    text-align: center;
+  }
+  .click:active {
+    background-color: green;
+  }
